@@ -1,2 +1,2 @@
 # Gojo-San
-A discord Bot under  
+A discord Bot under developement  
